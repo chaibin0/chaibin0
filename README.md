@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @chaibin0
-- 👀 I’m interested in Spring Framework/Boot
-- 🌱 I’m currently learning Kafka, Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Spring boot
+- 🌱 I’m currently learning Kafka, Algorithm, Spark, Webpack
 
 <!---
 chaibin0/chaibin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
