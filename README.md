@@ -1,6 +1,26 @@
 - 👋 Hi, I’m @chaibin0
-- 👀 I’m interested in Spring boot
-- 🌱 I’m currently learning Kafka, Algorithm, Spark, Webpack
+- Backend-developer
+
+
+### My Profile
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaebin-lim-3b0b231a4/)](https://www.linkedin.com/in/chaebin-lim-3b0b231a4/)
+
+### Domain
+Ads
+
+### Skill - familiar
+<p align="left">
+    <img src="https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=Kotlin">
+    <img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black">
+    <img src="https://img.shields.io/badge/-JavaScript-FCC624?style=flat&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+</p>
+
+### Skill - Experience
+<p align="left">
+    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+</p>
 
 <!---
 chaibin0/chaibin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
