@@ -8,7 +8,7 @@
 ### Domain
 Ads
 
-### Skill - familiar
+### Skill - Familiar
 <p align="left">
     <img src="https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=Kotlin">
     <img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black">
