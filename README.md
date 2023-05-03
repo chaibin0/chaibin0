@@ -8,7 +8,7 @@
 ### Domain
 Ads
 
-### Skill - Familiar
+### Skill - familiar
 <p align="left">
     <img src="https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=Kotlin">
     <img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black">
@@ -16,7 +16,7 @@ Ads
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 </p>
 
-### Skill - Experience
+### Skill - experienced
 <p align="left">
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
